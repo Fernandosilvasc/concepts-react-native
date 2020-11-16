@@ -10,10 +10,6 @@
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=#FE7F2D&labelColor=#FE7F2D">
 </p>
 
-<p align="center">
-  <a href="#rocket-about-the-challenge">About the challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licence">Licence</a>
-</p>
 
 <p align="center">
   <a href="#rocket-about-the-challenge">About the challenge</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -24,7 +20,8 @@
 
 This challenge is a complement of than two previous challenge that I have done using NodeJS for backend part and ReactJs to frontend. The link to access it will be available below.
 
-challenge 1 : **[GoStack_challenge-concept-nodejs](https://github.com/Fernandosilvasc/gostack_challenge-concept-nodejs)**
+challenge 1 : **[GoStack_challenge-concept-nodejs](https://github.com/Fernandosilvasc/gostack_challenge-concept-nodejs)**<br>
+
 challenge 2 : **[Gostack_challenge-concept-reactjs](https://github.com/Fernandosilvasc/gostack_challenge-concept-reactjs)**
 
 In this time basically I create the mobile version using what I have learned in React Native.

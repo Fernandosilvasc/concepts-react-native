@@ -29,7 +29,7 @@ In this time basically I create the mobile version using what I have learned in 
 The concept the application still the same, the application that will store your portfolio repositories.
 
 
-### Application Routes
+### Application Features
 
 This was requested through that challenge.
 
